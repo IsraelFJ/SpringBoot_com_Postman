@@ -8,5 +8,6 @@
     <h3 style="color: #000000;">Ferramentas utilizadas no processo.</h3>
     <img src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" alt="Ícone JAVA" style="width: 100px; height: auto;">
       <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Ícone JAVA" style="width: 100px; height: auto;">
+      <img src="https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000" alt="Ícone JAVA" style="width: 100px; height: auto;">
    
 </div>
